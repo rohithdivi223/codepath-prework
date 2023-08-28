@@ -10,8 +10,8 @@ Time spent: 2 hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [x] Users are see a screen with three labels and a button
+- [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
 
@@ -20,7 +20,7 @@ Here's a walkthrough of implemented user stories:
 <img src='https://i.imgur.com/RQJlOkg.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ... Kap 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -31,9 +31,11 @@ GIF created with ...
 Robinhood
   - Ability to login using Face ID
   - Being able to add stocks to different lists to look at seperately
+
 Instagram
   - Ability to choose whether number of likes is displayed or not
   - Reccomendation posts tab
+
 Snapchat
  - Able to see where friends are with Snap Map
  - Able to get reccomendations for popular things to do where you are
